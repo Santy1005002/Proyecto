@@ -1,0 +1,48 @@
+
+.contenido{
+    background-image: url(./imagenes/grungy-white-background-natural-cement-stone-old-texture-as-retro-pattern-wall-conceptual-wall-banner-grunge-material-construction.jpg);
+    background-size: auto;
+    background-repeat: no-repeat;
+}
+
+.carousel-control-prev{
+background-color: rgb(209, 152, 7);
+}
+.carousel-control-next{
+    background-color: goldenrod;
+}
+h1{
+ font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ background-color: rgba(224, 201, 152, 0.521);
+ border-style:ridge;
+}
+body{
+    #texto1{
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-style: none;
+    text-align:right;
+    line-height: 2;
+    }
+    h4{
+        color: goldenrod;
+    }
+    #foto{
+        opacity: 70%;
+    } 
+}
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-style:double;
+    border-color: goldenrod;    
+}
+p{
+    border-style: double;
+    border-color: goldenrod;    
+}
+
+footer{
+    background-color: black;
+    .col{
+        color: white;
+    }
+}
